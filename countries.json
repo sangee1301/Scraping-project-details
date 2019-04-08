@@ -1,0 +1,36 @@
+{
+  "China": {
+    "link": "https://www.4coffshore.com/windfarms/windfarms.aspx?windfarmId=CN61"
+  },
+  "Denmark": {
+    "link": "https://www.4coffshore.com/windfarms/windfarms.aspx?windfarmId=DK19"
+  },
+  "Japan": {
+    "link": "https://www.4coffshore.com/windfarms/windfarms.aspx?windfarmId=JP13"
+  },
+ "South Korea": {
+    "link": "https://www.4coffshore.com/windfarms/windfarms.aspx?windfarmId=KR03"
+  },
+ "Germany": {
+    "link": "https://www.4coffshore.com/windfarms/windfarms.aspx?windfarmId=DE13"
+  },
+ "Netherlands": {
+    "link": "https://www.4coffshore.com/windfarms/windfarms.aspx?windfarmId=NL32"
+  },
+ "Sweden": {
+    "link": "https://www.4coffshore.com/windfarms/windfarms.aspx?windfarmId=SE08"
+  },
+ "Taiwan": {
+    "link": "https://www.4coffshore.com/windfarms/windfarms.aspx?windfarmId=TW22"
+  },
+ "UK": {
+    "link": "https://www.4coffshore.com/windfarms/windfarms.aspx?windfarmId=UK36"
+  },
+ "US": {
+    "link": "https://www.4coffshore.com/windfarms/windfarms.aspx?windfarmId=US12"
+  },
+ "Norway": {
+    "link": "https://www.4coffshore.com/windfarms/windfarms.aspx?windfarmId=NO13"
+  }
+
+}
